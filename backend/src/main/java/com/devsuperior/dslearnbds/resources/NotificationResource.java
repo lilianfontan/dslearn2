@@ -9,7 +9,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.devsuperior.dslearnbds.dto.NotificationDTO;
-import com.devsuperior.dslearnbds.entities.Notification;
 import com.devsuperior.dslearnbds.services.NotificationService;
 
 @RestController
